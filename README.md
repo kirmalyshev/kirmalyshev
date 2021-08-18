@@ -7,7 +7,7 @@
 - 🤗 Fun fact: I've wrote code in the most Eastern and Western points of Russia.
 - 👯 I'm co-organizer of Python Kaliningrad community and ex programming teacher. 
 - ⚡ I do salsa, surfing, practice psychology and some genealogy.
-- ✉️ You can shoot me an email at [kirill.malyshe@gmail.com](mailto:kirill.malyshe@gmail.com)
+- ✉️ Feel free to email me: [kirill.malyshe@gmail.com](mailto:kirill.malyshe@gmail.com)
 
 ## 🛠 Buzzwords
 
