@@ -8,6 +8,7 @@
 - 👯 I'm co-organizer of Python Kaliningrad community and ex programming teacher. 
 - ⚡ I do salsa, surfing, practice psychology and some genealogy.
 - ✉️ Feel free to email me: [kirill.malyshe@gmail.com](mailto:kirill.malyshe@gmail.com)
+- 📝 Steal memes and write notes [here](https://t.me/kirillyan_stories)
 
 ## 🛠 Buzzwords
 
