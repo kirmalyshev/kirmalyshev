@@ -20,8 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirmalyshev&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kirmalyshev&layout=compact&langs_count=6)
-
 ![](https://komarev.com/ghpvc/?username=kirmalyshev&label=PROFILE+VIEWS)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/kirmalyshev)
