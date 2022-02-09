@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Kirill
 
 
-- 🇷🇺 I live in Kaliningrad, Russia.
-- 🐍 I'm a Tech-lead at [iClinicApp](https://iclinicapp.ru)
+- 🇷🇺 Live in Kaliningrad, Russia.
+- 🐍 Tech-lead at [iClinicApp](https://iclinicapp.ru) & backend-developer at [PandaDoc](http://pandadoc.com/)
 - 🤖 Most of the time I'm writing on Python. Sometimes JavaScript/Bash and different devOps things.
 - 🤗 Fun fact: I've wrote code in the most Eastern and Western points of Russia.
-- 👯 I'm co-organizer of Python Kaliningrad community and ex programming teacher. 
+- 👯 I'm co-organizer of Python Kaliningrad community and ex programming teacher.
 - ⚡ I do salsa, surfing, practice psychology and some genealogy.
 - ✉️ Feel free to [email me](mailto:kirill.malyshe@gmail.com)
 - 📝 Steal memes and write notes [here](https://t.me/kirillyan_stories)
