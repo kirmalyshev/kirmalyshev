@@ -5,7 +5,7 @@
 - 🐍 Tech-lead at [iClinicApp](https://iclinicapp.ru) & backend-developer at [PandaDoc](http://pandadoc.com/)
 - 🤖 Most of the time I'm writing on Python. Sometimes JavaScript/Bash and different devOps things.
 - 🤗 Fun fact: I've wrote code in the most Eastern and Western points of Russia.
-- 👯 I'm co-organizer of Python Kaliningrad community and ex programming teacher.
+- 👯 I'm co-organizer of Python Kaliningrad community and ex-Python tutor.
 - ⚡ I do salsa, surfing, practice psychology and some genealogy.
 - ✉️ Feel free to [email me](mailto:kirill.malyshev@fastmail.com)
 - 🔖 [CV](https://docs.google.com/document/d/1MuaO3A_2KRZ304M2EsaDRTNv_js6nPr9i5mOxQbCIFI/edit?usp=sharing)
