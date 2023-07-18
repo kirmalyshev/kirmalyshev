@@ -4,7 +4,7 @@
 - 🇷🇸 Live in Novi Sad, Serbia. Originally from Russia🇷🇺
 - 🐍 Tech-lead at [iClinicApp](https://iclinicapp.ru) & backend-developer at [PandaDoc](http://pandadoc.com/)
 - 🤖 Most of the time I'm writing on Python. Sometimes JavaScript/Bash and different devOps things.
-- 🤗 Fun fact: I've wrote code in the most Eastern and Western points of Russia.
+- 🤗 Fun fact: I've been making software in the most Eastern and Western points of Russia.
 - 👯 I'm co-organizer of Python Kaliningrad community and ex-Python tutor.
 - ⚡ I do salsa, surfing, practice psychology and some genealogy.
 - ✉️ Feel free to [email me](mailto:kirill.malyshev@fastmail.com)
