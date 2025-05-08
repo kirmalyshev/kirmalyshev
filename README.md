@@ -2,7 +2,7 @@
 
 
 - 🇩🇪 Live in Berlin, Germany. Originally from Russia.
-- 🐍 Tech-lead at [Makersite](https://makersite.io). Ex-lead engineer at [PandaDoc](http://pandadoc.com/)
+- 🐍 Tech-lead at [Makersite](https://makersite.io). Ex-lead engineer at [PandaDoc](http://pandadoc.com/). Ex-CTO at [iClinicApp](https://iclinicapp.com/)
 - 🤖 Most of the time I'm writing on Python. Sometimes JavaScript/Bash and different devOps things.
 - 🤗 Fun fact: I've been making software in the most Eastern and Western points of Russia.
 - 👯 I'm co-organizer of Python Kaliningrad community and ex-Python tutor.
