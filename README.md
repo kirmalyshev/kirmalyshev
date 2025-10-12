@@ -2,12 +2,12 @@
 
 
 - 🇩🇪 Live in Berlin, Germany. Originally from Russia.
-- 🐍 Tech-lead at [Makersite](https://makersite.io). Ex-lead engineer at [PandaDoc](http://pandadoc.com/). Ex-CTO at [iClinicApp](https://iclinicapp.com/)
-- 🤖 Most of the time I'm writing on Python. Sometimes JavaScript/Bash and different devOps things.
-- 🤗 Fun fact: I've been making software in the most Eastern and Western points of Russia.
-- 👯 I'm co-organizer of Python Kaliningrad community and ex-Python tutor.
-- ⚡ I do salsa, surfing, practice psychology and some genealogy.
-- ✉️ Feel free to [email me](mailto:kirill.malyshev@fastmail.com)
+- 🐍 Tech-lead / EM at [Makersite](https://makersite.io). Ex-lead engineer at [PandaDoc](http://pandadoc.com/). Ex-CTO at [iClinicApp](https://iclinicapp.com/)
+- 🤖 Most of the time I'm writing on Python. Also Java(Type)Script/Bash & DevOps.
+- 🤗 Fun fact: I've built software for the most Eastern and the most Western places in Russia.
+- 👯 Co-organized Python Kaliningrad community; Teached Computer Science in university.
+- ⚡ I do salsa, surfing, learn psychology and research my family tree.
+- ✉️ Feel free to [email me](mailto:kirmalyshev@fastmail.de)
 - 🔖 [link to CV](https://docs.google.com/document/d/1MuaO3A_2KRZ304M2EsaDRTNv_js6nPr9i5mOxQbCIFI/edit?usp=sharing)
 - 📝 Steal memes and write notes [here](https://t.me/kirillyan_stories)
 
